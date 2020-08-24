@@ -28,6 +28,9 @@ O usuário inicia uma conversa no chatbot para obter informações sobre fitness
 <p align="center"> <img src="https://github.com/PauloAlves8039/chatbot-fit-telegram-node.js/blob/master/assets/img/screenshot1.jpg" alt="Screenshot1" /></p>
 <p align="center"> <img src="https://github.com/PauloAlves8039/chatbot-fit-telegram-node.js/blob/master/assets/img/screenshot2.jpg" alt="Screenshot2" /> </p>
 
+## :pencil: Licença
+
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/chatbot-fit-telegram-node.js/blob/master/LICENSE.md)
 
 ## Author
 
