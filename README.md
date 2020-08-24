@@ -14,7 +14,7 @@ O usuário inicia uma conversa no chatbot para obter informações sobre fitness
 ## :wrench: Recursos Utilizados
 
 - [Visual Studio Code v1.48.0](https://code.visualstudio.com/).
-- [Telegram Bot](https://telegrambots.github.io/book/index.html/).
+- [Telegram Bot](https://core.telegram.org/bots/samples/).
 - [Youtube Data API](https://developers.google.com/youtube/v3/quickstart/nodejs/).
 - [Node.js v12.18.3](https://nodejs.org/en/).
 - [Dialogflow](https://dialogflow.cloud.google.com/#/login).
